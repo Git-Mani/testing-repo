@@ -1,1 +1,1 @@
-hello, this is testing data for translation service
+Hallo, hier ist der Testdatendienst
