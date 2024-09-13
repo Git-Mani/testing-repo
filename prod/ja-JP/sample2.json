@@ -1,0 +1,12 @@
+{
+  "welcome_message": "私たちのウェブサイトへようこそ!",
+  "login_prompt": "ログインして続行する。",
+  "logout_message": "正常にログアウトされた。",
+  "error_message": "おっと！何かがおかしいもう一度試してみて。",
+  "success_message": "あなたの行動は成功した。",
+  "loading_message": "ロード中。お待ちください...",
+  "no_results": "結果が見つからない。",
+  "form_submit": "フォームが送信された。",
+  "contact_info": "サポートについては、info@example.comまでお問い合わせ。",
+  "privacy_policy": "詳細については、プライバシーポリシーをお読みください。"
+}
